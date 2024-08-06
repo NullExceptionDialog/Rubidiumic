@@ -1,0 +1,4 @@
+﻿  Rubidiumic.cpp
+C:\Users\hcakm\source\repos\Project1\Rubidiumic.cpp(54,41): warning C4293: '>>': kaydırma sayısı negatif veya çok büyük; tanımsız davranış
+C:\Users\hcakm\source\repos\Project1\Rubidiumic.cpp(71,123): warning C4554: '>>': olası hata için işleç önceliğini denetleyin; önceliği netleştirmek için parantez kullanın
+  Project1.vcxproj -> C:\Users\hcakm\source\repos\Project1\x64\Debug\Project1.exe
